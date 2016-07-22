@@ -1,6 +1,6 @@
-# angularfire-seed — the seed for Angular+Firebase apps
+# angularfire-seed — the seed for Angular+Firebase v3+AngularFire v2
 
-[![Build Status](https://travis-ci.org/firebase/angularfire-seed.svg)](https://travis-ci.org/firebase/angularfire-seed)
+UP to date with Firebase SDK v3.0.1 and AngularFire v2.0.1
 
 This derivative of [angular-seed](https://github.com/angular/angular-seed) is an application
 skeleton for a typical [AngularFire](http://angularfire.com/) web app. You can use it to quickly
